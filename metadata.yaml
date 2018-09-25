@@ -1,11 +1,16 @@
 _repo: The-Story-of-the-Highland-Regiments_57897
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57897-h/images/cover.jpg
 creator:
   author:
     agent_name: Watson, Frederick
     gutenberg_agent_id: '49675'
     url: http://www.gutenberg.org/2009/agents/49675
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57897#The-Story-of-the-Highland-Regiments
 gutenberg_issued: '2018-09-13'
 gutenberg_type: Text
 identifiers:
